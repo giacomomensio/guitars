@@ -59,9 +59,12 @@
     font-size: 3rem;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 400px;
+  min-height: 1268px;
 }
 
 .u-section-2 .u-custom-html-1 {
   margin-bottom: 60px;
+  height: auto;
+  min-height: 1208px;
+  margin-top: 0;
 }
